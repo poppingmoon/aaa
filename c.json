@@ -1,0 +1,44 @@
+{
+  "title": "Title",
+  "messageLog":
+    [
+      {
+        "name": null,
+        "text": "aaaa"
+      },
+      {
+        "name": "bbb",
+        "text": "bbbbbb<br>ccccccccc"
+      },
+      {
+        "name": null,
+        "text": "ddd<span class=\"important\">eee</span>"
+      },
+      [
+        [
+          {
+            "name": "cccc",
+            "text": "ccccccccc"
+          },
+          {
+            "name": "ccccc",
+            "text": "cccc<br>ccccccccccccc"
+          }
+        ],
+        [
+          {
+            "name": "dddd",
+            "text": "dddddddddd"
+          },
+          {
+            "name": "ddd",
+            "text": "dddddd<br>ddddddd"
+          }
+        ]
+      ],
+      {
+        "name": null,
+        "text": "aaaa"
+      }
+    ]
+}  
